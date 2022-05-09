@@ -9,4 +9,5 @@
    <h2>   - 🌱 I’m currently learning C,C++ and Python.</h2>
      <h2> - 👯 I’m looking to collaborate on small projects. Get to know more about concepts :)</h2>
      <h2> - ⚡ Fun fact: Many owners of large tech companies loved video games as kids xD</h2>
-  </div>
+  <h2> - 📫 Reach me at: <a href="mailto:basu.rajdeep2002@gmail.com">Gmail</a>
+    </div>
