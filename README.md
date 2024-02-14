@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="350" height"300"> -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs1YWo3bjNsamhmMGY2aHNsNzh6NWd5dG9mang4enJkcGxuYmg2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" width="500" height="400">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs1YWo3bjNsamhmMGY2aHNsNzh6NWd5dG9mang4enJkcGxuYmg2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" width="500" height="400"/>
 </div>
 <div id="head">
   <h2><b>About me: </b></h2>
