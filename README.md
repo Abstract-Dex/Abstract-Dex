@@ -1,5 +1,5 @@
 <div id="header" align="center">
-![](https://github.com/Abstract-Dex/Abstract-Dex/assets/90722648/c31386ce-bb91-4b05-979f-1b205792ce05)
+![](https://github.com/Abstract-Dex/Abstract-Dex/assets/90722648/e61f2f45-12de-4714-a9a9-7402e721cafc)
 </div>
 <div id="head">
   <h2><b>About me: </b></h2>
