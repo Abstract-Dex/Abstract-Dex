@@ -1,6 +1,7 @@
 <div id="header" align="center">
+  <img src="https://github.com/Abstract-Dex/Abstract-Dex/assets/90722648/c8d1e2e6-61af-452b-a103-6d5c896e9db4">
 </div>
-<img src="https://github.com/Abstract-Dex/Abstract-Dex/assets/90722648/c8d1e2e6-61af-452b-a103-6d5c896e9db4">
+
 <div id="head">
   <h2><b>About me: </b></h2>
 </div>
@@ -11,3 +12,4 @@
   <h3>- ⚡ Fun fact: Many owners of large tech companies loved video games as kids.</h3>
   <h3> - 📫 Reach me at: <a href="mailto:basu.rajdeep2002@gmail.com">Gmail</a>
 </div>
+![Toy Story analysis](https://github.com/Abstract-Dex/Abstract-Dex/assets/90722648/8bf2112a-08e3-4e12-92e1-7dcb8d669bdd)
