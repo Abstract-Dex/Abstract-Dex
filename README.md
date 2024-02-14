@@ -1,6 +1,5 @@
 <div id="header" align="center">
-<img src="https://github.com/Abstract-Dex/Abstract-Dex/assets/90722648/3f6a7a78-d33f-4b23-95c4-03ec61ee44d8">
-
+<img src="[https://github.com/Abstract-Dex/Abstract-Dex/assets/90722648/3f6a7a78-d33f-4b23-95c4-03ec61ee44d8](https://github.com/Abstract-Dex/Abstract-Dex/assets/90722648/a7d6a0bd-379b-4fb9-9823-6706c66714d5)">
 </div>
 <div id="head">
   <h2><b>About me: </b></h2>
