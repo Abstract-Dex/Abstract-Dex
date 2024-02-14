@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="[https://tenor.com/bNy2M.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstemettes.org%2Fzine%2Farticles%2Fwhat-do-we-do-with-data%2F&psig=AOvVaw0BkOP0T41COXWMwgn-OTbV&ust=1707988152541000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj-3uq9qoQDFQAAAAAdAAAAABAJ)" width="350" height"300">
+![giphy](https://github.com/Abstract-Dex/Abstract-Dex/assets/90722648/644b0645-9c34-45af-99f1-ec119ddb96c4)
 </div>
 <div id="head">
   <h2><b>About me: </b></h2>
