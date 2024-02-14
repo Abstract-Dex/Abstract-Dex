@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="[https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif](https://tenor.com/bNy2M.gif)" width="350" height"300">
+<img src="https://tenor.com/bNy2M.gif" width="350" height"300">
 </div>
 <div id="head">
   <h2><b>About me: </b></h2>
