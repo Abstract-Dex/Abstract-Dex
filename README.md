@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="350" height"300"> -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs1YWo3bjNsamhmMGY2aHNsNzh6NWd5dG9mang4enJkcGxuYmg2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" width="500" height="400"/>
+<div class="tenor-gif-embed" data-postid="24166770" data-share-method="host" data-aspect-ratio="1.40351" data-width="100%"><a href="https://tenor.com/view/date-everywhere-data-digital-marketing-gif-24166770">Date Everywhere Data GIF</a>from <a href="https://tenor.com/search/date+everywhere-gifs">Date Everywhere GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 <div id="head">
   <h2><b>About me: </b></h2>
