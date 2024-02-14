@@ -1,5 +1,5 @@
 <div id="header" align="center">
-![new1](https://github.com/Abstract-Dex/Abstract-Dex/assets/90722648/0e081662-2e83-49aa-a91c-e550cd9e7e0a)
+<img src="https://github.com/Abstract-Dex/Abstract-Dex/assets/90722648/3f6a7a78-d33f-4b23-95c4-03ec61ee44d8">
 
 </div>
 <div id="head">
