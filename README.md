@@ -1,5 +1,5 @@
 <div id="header" align="center">
-![giphy](https://github.com/Abstract-Dex/Abstract-Dex/assets/90722648/644b0645-9c34-45af-99f1-ec119ddb96c4)
+![](https://github.com/Abstract-Dex/Abstract-Dex/assets/90722648/644b0645-9c34-45af-99f1-ec119ddb96c4)
 </div>
 <div id="head">
   <h2><b>About me: </b></h2>
