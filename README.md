@@ -1,6 +1,4 @@
 <div id="header" align="center">
-<img src="https://github.com/Abstract-Dex/Abstract-Dex/assets/90722648/46a84cad-5226-463a-bed9-f7cff0eb57e3>
-
 </div>
 <div id="head">
   <h2><b>About me: </b></h2>
