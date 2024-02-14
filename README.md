@@ -7,7 +7,7 @@
 </div>
 <div id="bio">
   <h3>- 👋 Hi there, I'm Rajdeep. </h3>
-  <h3>- 🚀 Specializations: Data Science, Machine Learning, Generative AI </h3>
+  <h3>- 🚀 Specializations: Data Science, Machine Learning, Generative AI. </h3>
   <h3>- 👯 Open to collaborate on projects to expand my knowledge and contribute to solutions.</h3>
   <h3>- ⚡ Did you know that many owners of large tech companies were video game enthusiasts in their childhood?</h3>
   <h3> - 📫 Reach me at: <a href="mailto:basu.rajdeep2002@gmail.com">Gmail</a>
