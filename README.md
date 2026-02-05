@@ -7,7 +7,7 @@
 Junior AI Engineer learning and experimenting with applied LLM systems, retrieval pipelines, and model evaluation.  
 I like digging into how things work under the hood and building prototypes that help me understand the trade-offs involved.
 
-#### `ssh --connect` --<a href="mailto:basu.rajdeep2002@gmail.com">e-mail</a>
+#### `ssh --connect` -- <a href="mailto:basu.rajdeep2002@gmail.com">e-mail</a>
 
 ---
 
@@ -55,7 +55,7 @@ I like digging into how things work under the hood and building prototypes that 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-### `.git/lifecycle`
+### `.git/workflows`
 *Version control and deployment synchronization.*
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
