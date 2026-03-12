@@ -4,7 +4,7 @@
 
 ### `whoami`
 
-Junior AI Engineer learning and experimenting with applied LLM systems, retrieval pipelines, and model evaluation.  
+Hi, I'm Rajdeep. I'm a Junior AI Engineer learning and experimenting with applied LLM systems, retrieval pipelines, and model evaluation.  
 I like digging into how things work under the hood and building prototypes that help me understand the trade-offs involved.
 
 #### `ssh --connect` -- <a href="mailto:basu.rajdeep2002@gmail.com">e-mail</a>
