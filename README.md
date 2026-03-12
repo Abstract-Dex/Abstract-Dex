@@ -51,7 +51,7 @@ I like digging into how things work under the hood and building prototypes that 
 *Resident tools and editors that stay loaded in the buffer.*
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vim,cursor,obsidian&perline=8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ghostty,vim,cursor,obsidian&perline=8" />
 </p>
 
 ---
